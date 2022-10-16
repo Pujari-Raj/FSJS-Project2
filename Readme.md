@@ -19,6 +19,9 @@ Click on the below given link to get the preview of the page
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
 
+&nbsp;
+![Project-Image](./Screenshots/Project2-ss.png "Project-Image")
+
 Learnings from this projects:-
 * How to use different positions in css.
 * Different CSS properties.
