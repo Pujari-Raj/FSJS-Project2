@@ -1,4 +1,4 @@
-# Live Class Project2
+# Live Class Project-2
 
 Project- Restaurant | Landing Page
 
